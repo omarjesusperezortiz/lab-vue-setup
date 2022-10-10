@@ -47,7 +47,7 @@ We'll be following the official Vue.js guide for most of this lab.
 
 1. The first step before creating your first Vue project will be to **install the CLI**. You only need to take this step once on your computer.
 
-You can find the instructions [in this link](https://cli.vuejs.org/guide/installation.html). Remember to add the `-g` command in order to install Vue on your computer instead of just inside a specific folder.
+You can find the instructions [in this link](https://cli.vuejs.org/guyaride/installation.html). Remember to add the `-g` command in order to install Vue on your computer instead of just inside a specific folder.
 
 If you're working on Mac, remember you'll need to add the keyword "sudo" before the command in order for it to work.
 
